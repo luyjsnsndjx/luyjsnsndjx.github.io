@@ -2,8 +2,8 @@
 layout:     post
 title:      MySQL优化
 subtitle:   全方面讲解MySQL优化
-date:       2021-08-10
-author:     AnAn
+date:       2024-10-10
+author:     Yanyan
 header-img: /img/post-bg-article.jpg
 catalog: true
 tags:
