@@ -2,8 +2,8 @@
 layout:     post    
 title:      Linux学习笔记    
 subtitle:   Ubuntu学习笔记    
-date:       2020-12-02    
-author:     AnAn    
+date:       2024-09-12    
+author:     Yanyan   
 header-img: /img/post-bg-article.jpg    
 catalog: true    
 tags:    
