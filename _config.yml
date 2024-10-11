@@ -1,13 +1,13 @@
 # Site settings
-title: AnAn's Blog
-SEOTitle: AnAn的博客
-header-img: "https://img02.sogoucdn.com/app/a/201025/dd60a63595a4a61f159347c57ab68289"
-email: "wangwen@snnu.edu.cn"
+title: Yanyan's Blog
+SEOTitle: Yanyan的博客
+header-image: "https://img02.sogoucdn.com/app/a/201025/dd60a63595a4a61f159347c57ab68289"
+email: "leiyy@snnu.edu.cn"
 description: "Every failure is leading towards success."
-keyword: "AnAn的博客, AnAn, AnAn, Java"
-url: "https://laowng.github.io/"          # your host, for absolute URL
+keyword: "Yanyan的博客, Yanyan, Yanyan, JavaScript"
+url: "https://luyjsnsndjx.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/laowng/laowng.github.io.git" # you code repository
+github_repo: "https://github.com/luyjsnsndjx/luyjsnsndjx.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,10 +18,10 @@ sidebar-avatar: /img/anan/anan.png      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-#weibo_username:     AnAn
-#zhihu_username:     AnAn
-github_username:    laowng
-gitee_username:     gitlaowng
+#weibo_username:     Yanyan
+#zhihu_username:     Yanyan
+github_username:    luyjsnsndjx
+gitee_username:     gitluyjsnsndjx
 #facebook_username:  username
 #jianshu_username:   jianshu_id
 #twitter_username:   AnAn
