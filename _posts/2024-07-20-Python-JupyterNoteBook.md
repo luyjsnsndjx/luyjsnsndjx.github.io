@@ -2,7 +2,7 @@
 layout:     post   
 title:      JupyterNotebook   
 subtitle:   Python JupyterNotebook   
-date:       2021-10-20   
+date:       2024-07-20  
 author:     AnAn   
 header-img: /img/life-bg/nature1.jpeg   
 catalog: true   
