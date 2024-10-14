@@ -1,10 +1,10 @@
 # Site settings
-title: Yanyan's Blog
-SEOTitle: Yanyan的博客
+title: Xiaolei's Blog
+SEOTitle: Xiaolei的博客
 header-image: "https://img02.sogoucdn.com/app/a/201025/dd60a63595a4a61f159347c57ab68289"
 email: "leiyy@snnu.edu.cn"
 description: "Every failure is leading towards success."
-keyword: "Yanyan的博客, Yanyan, Yanyan, JavaScript"
+keyword: "Xiaolei的博客, JavaScript"
 url: "https://luyjsnsndjx.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/luyjsnsndjx/luyjsnsndjx.github.io.git" # you code repository
@@ -18,8 +18,8 @@ sidebar-avatar: /img/anan/anan.png      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-#weibo_username:     Yanyan
-#zhihu_username:     Yanyan
+#weibo_username:     Xiaolei
+#zhihu_username:     Xiaolei
 github_username:    luyjsnsndjx
 gitee_username:     gitluyjsnsndjx
 #facebook_username:  username
