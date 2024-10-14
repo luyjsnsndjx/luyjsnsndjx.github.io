@@ -2,8 +2,8 @@
 layout:     post
 title:      conda
 subtitle:   conda pip 一些常用命令
-date:       2020-12-02
-author:     AnAn
+date:       2021-12-02
+author:     Xiaolei
 header-img: /img/post-bg-article.jpg
 catalog: true
 tags:
