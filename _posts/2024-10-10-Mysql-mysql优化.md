@@ -3,7 +3,7 @@ layout:     post
 title:      MySQL优化
 subtitle:   全方面讲解MySQL优化
 date:       2024-10-10
-author:     Yanyan
+author:    Xiaolei
 header-img: /img/post-bg-article.jpg
 catalog: true
 tags:
