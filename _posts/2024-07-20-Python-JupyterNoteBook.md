@@ -3,7 +3,7 @@ layout:     post
 title:      JupyterNotebook   
 subtitle:   Python JupyterNotebook   
 date:       2024-07-20  
-author:     xiaolei  
+author:     Xiaolei  
 header-img: /img/life-bg/nature1.jpeg   
 catalog: true   
 tags:   
