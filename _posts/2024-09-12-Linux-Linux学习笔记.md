@@ -3,7 +3,7 @@ layout:     post
 title:      Linux学习笔记    
 subtitle:   Ubuntu学习笔记    
 date:       2024-09-12    
-author:     Yanyan   
+author:     Xiaolei 
 header-img: /img/post-bg-article.jpg    
 catalog: true    
 tags:    
