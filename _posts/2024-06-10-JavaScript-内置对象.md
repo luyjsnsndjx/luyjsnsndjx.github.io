@@ -7,7 +7,7 @@ author:     XiaoLei
 header-img: /img/post-bg-article.jpg
 catalog: true
 tags:
-    - Git
+    - JavaScript
 ---
 ## 前言
 在JavaScript的世界里，一切都是对象。
