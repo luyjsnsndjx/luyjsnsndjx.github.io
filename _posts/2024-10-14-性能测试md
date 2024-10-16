@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      Java冷热排障
-subtitle:   热排障
+title:      Java
+subtitle:   GVM内存管理
 date:       2024-10-14
 author:     XiaoLei
 header-img: /img/post-bg-article.jpg
 catalog: true
 tags:
-    - 冷热排障
+    - Java
 ---
 
 ### 什么是热排障？
@@ -67,3 +67,11 @@ tags:
 - <http://blog.csdn.net/nzing/article/details/9166057>
 - <http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/wget.html>
 - <https://www.jianshu.com/p/180fb11a5b96>
+
+
+
+
+
+
+
+
